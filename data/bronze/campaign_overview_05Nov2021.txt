@@ -1,0 +1,1058 @@
+<html class=" with-js" lang="en" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head data-return-url-update-action="/a/set-return-url">
+<meta charset="utf-8">
+<title>Project Catalyst - by IdeaScale</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi">
+<meta name="referrer" content="origin">
+<meta name="slack-app-id" content="AH6KXUZHA">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    
+  if (top !== self) {
+    top.location.replace(self.location.href); 
+            setTimeout(function () {
+      document.write('You are viewing this page in an unauthorized frame window.  <a href="/" target="_blank">Click here</a> if you\'d like to continue.');
+    });
+
+    window.stop();
+  }
+</script>
+<meta name="description" content="Project Catalyst - by IdeaScale">
+<meta name="keywords" content="IdeaScale,Project Catalyst,Catalyst,Catalyst fund,Cardano,IOHK,Innovation">
+<meta property="og:site_name" content="IdeaScale">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Check out Project Catalyst Innovation Community">
+<meta property="og:description" content="Project Catalyst is a place where you can submit, browse, vote and comment on ideas. Hosted by IdeaScale.com.">
+<meta property="og:image" content="https://cardano.ideascale.com/community-library/accounts/93/936143/Public/LogoIOHK-1370a9.png">
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="300">
+<meta property="fb:app_id" content="93133270218">
+<meta name="robots" content="noindex, nofollow">
+<meta name="is:communityId" content="48088">
+<meta name="is:personId" content="5601412">
+<script>
+    document.documentElement.className = document.documentElement.className.replace(/(^| )no-js( |$)/, '') + ' with-js';
+    if (/constructor/i.test(window.HTMLElement)) {
+      document.documentElement.className = document.documentElement.className + ' safari';
+    }
+  </script>
+<!--[if gt IE 9]> -->
+<link rel="stylesheet" href="/ui-libs/pace/1.0.2/themes/orange/pace-theme-flash.css?v=e99845">
+<script>
+    paceOptions = {
+        restartOnPushState: false,
+        ajax: {
+            trackMethods: ['GET', 'POST', 'DELETE', 'PUT']
+        }
+    }
+</script>
+<script src="/ui-libs/pace/1.0.2/pace.min.js"></script>
+<!-- <![endif]-->
+<link rel="stylesheet" href="/ui-libs/markdown/5.23.3/css/medium-editor.min.css?v=030464"><link rel="stylesheet" href="/ui-libs/markdown/5.23.3/css/themes/beagle.min.css?v=030464"><link rel="stylesheet" href="/ui-libs/markdown/5.23.3/css/themes/beagle.min.css?v=030464"><link rel="stylesheet" href="/stylesheets/mediaelementplayer.min.css?v=030464"><link rel="stylesheet" href="/ui-libs/ichord/css/jquery.atwho.css?v=030464"><link rel="stylesheet" href="/js-libs/wdt-emoji/wdt-emoji-bundle.css?v=030464"><link rel="stylesheet" href="/ui-libs/select2/4.0.5/css/select2.min.css?v=030464"><link rel="stylesheet" href="/ui-libs/bootstrap/v3/bootstrap-responsive.css?v=030464"><link rel="stylesheet" href="/ui-libs/ideascale-ui/ideascale-ui.css?v=030464"><link rel="stylesheet" href="/stylesheets/campaign-v2/ideascale-v3-responsive.css?v=030464"><link rel="stylesheet" href="/ui-libs/flatpickr/flatpickr.css?v=030464">
+<link rel="stylesheet" href="/userimages/accounts/93/936143/panel-48088.css?v=175cb6a93b967f7a7fc5a505f59e2c3d">
+<link rel="stylesheet" href="/userimages/accounts/93/936143/panel-48088-custom-pages.css?v=97c443545232800017dce8d807756b75">
+<!--[if lt IE 9 ]>
+    <script src="/javascript/html5shiv-3.7.3.min.js"></script>
+    <script src="/ui-libs/bootstrap/v3/respond.min.js"></script>
+  <![endif]-->
+<link rel="shortcut icon" type="image/png" href="https://cardano.ideascale.com/community-library/accounts/93/936143/favicon-a38827.png" sizes="16x16">
+<link rel="shortcut icon" type="image/png" href="https://cardano.ideascale.com/community-library/accounts/93/936143/favicon-a38827.png" sizes="32x32">
+<link rel="shortcut icon" type="image/png" href="https://cardano.ideascale.com/community-library/accounts/93/936143/favicon-a38827.png" sizes="96x96">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<style>
+
+            .new-idea-button,
+        .new-question-button,
+        .new-idea-bar .btn-new-idea,
+        .action-summary .pro-bar .progress-br div,
+        .landing-pg-bg-highlight,
+        #universal-top-bar #utb-persistent > a,
+        .btn-highlight,
+        .utb-with-numeric-indicator .badge,
+        .activity-section .idea-activity-heading h3 .label-primary,
+        .stage-timeline-steps .stage-completed {
+          background-color: #798AFF !important;
+          background: #798AFF;
+        }
+
+        .stage-timeline-steps .stage-completed:after {
+          border-left-color: #798AFF !important;
+        }
+
+        .social-web-link-list > li > a:focus > .is-icon,
+        .idea-title,
+        .moderation-actions,
+        .moderation-actions > a,
+        .moderation-actions > a:hover,
+        a.vote-up:hover,
+        .idea-details-pills > .active > [data-toggle],
+        .at-mention,
+        .quit-reviewscale,
+        .attachment-list > li > a,
+        .idea-details-digest > a,
+        .landing-pg-fg-highlight,
+        .event-list a,
+        #utb-msg-list a,
+        .comment-vote-up a.comments-voted-up,
+        .comment-vote-down a.comments-voted-up,
+        .comment-vote-up .comments-voted-up,
+        .comment-vote-down .comments-voted-up,
+        .activity-section .idea-activity-heading h3 {
+          color: #798AFF !important;
+        }
+
+        a.vote-up:hover,
+        .idea-details-pills > .active > [data-toggle] {
+          border-bottom-color: #798AFF;
+        }
+
+        a.vote-down:hover {
+          border-top-color: #798AFF;
+        }
+
+        .landing-pg-bc-highlight,
+        .btn-highlight {
+          border-color: #798AFF;
+        }
+
+        .activity-section .idea-activity-heading:hover,
+        .activity-section .idea-activity-heading.active,
+        .activity-section .idea-activity-heading[aria-expanded="true"] {
+          border-left-color: #798AFF;
+        }
+
+        .panel-group-custom > .panel-body {
+          border-left-color: rgba(121,138,255, .4);
+        }
+    
+          aside > section .stage-list:not(.archive-stage-list) > li a div {
+        background-color: #DDDEE5 !important;
+        background: #DDDEE5 !important;
+      }
+
+      aside > section .stage-list:not(.archive-stage-list) > li a div:after {
+        border-top-color: #DDDEE5 !important;
+      }
+    
+            .new-idea-button:hover,
+        .new-question-button:hover,
+        aside > section .stage-list > li a:hover > div,
+        aside > section .stage-list > li a:focus > div,
+        aside > section .stage-list > li:hover a > div,
+        aside > section .stage-list > li:focus a > div,
+        aside > section .stage-list > li.active > a > div,
+        .stage-progress > .progress > .progress-bar,
+        .stage-details > .stage-workflow > .stage-list > li > a:hover,
+        .comment-label,
+        .idea-label,
+        .reviewscale .review-paging .np-link,
+        .reviewscale .action-bar .btn,
+        .stage-details > .stage-workflow > .stage-list > .active > a,
+        .assessment .assessment-paging .np-link,
+        .assessment .action-bar .btn,
+        .pairwise-content .pairwise .pairwise-paging .np-link,
+        .pairwise-content .pairwise .action-bar .btn,
+        .poll .poll-paging .np-link,
+        .ribbon,
+        .stage-action > .stage-data > .progress > .progress-bar,
+        .stage-action > .stage-data > .progress > .progress-bar,
+        .landing-pg-bg-accent-1,
+        .btn-highlight:hover,
+        #universal-top-bar #utb-persistent > a:hover {
+          background-color: #798AFF !important;
+          background: #798AFF !important;
+        }
+
+        .stage-timeline-steps > li.stage-active > svg {
+          fill: #798AFF !important;
+        }
+
+        a,
+        .ideas-nav-bar > li.open > [data-toggle],
+        .ideas-nav-bar > li.open > [data-toggle]:focus,
+        .ideas-nav-bar > li.open > [data-toggle]:hover,
+        .campaign-description .stage-workflow > h3,
+        .progress-desc,
+        .voted-up > .vote-actions > .vote-up,
+        .voted-down > .vote-actions > .vote-down,
+        a.vote-down:hover,
+        .btn-link,
+        .comment-vote-up > strong:first-child,
+        .comment-vote-down > strong:first-child,
+        .reviewscale .collapse-expand,
+        .up-votes,
+        .moderation-actions .dropdown-menu-item-group li a:hover,
+        .moderation-actions .dropdown-menu-item-group .as-menu-item-link:hover,
+        .win-idea,
+        .assessment .collapse-expand,
+        .pairwise-content .pairwise .collapse-expand,
+        .idea-meta-author .collapse-expand,
+        .refine-action-links .collapse-expand,
+        .comment-vote-up a.comments-voted-down,
+        .comment-vote-down a.comments-voted-down,
+        .comment-vote-up .comments-voted-down,
+        .comment-vote-down .comments-voted-down,
+        .idea-list-modes-sub ul li.active a,
+        .pagination > li > a,
+        .pagination > li span,
+        .pagination > li > a:hover,
+        .pagination > li span:hover,
+        .pagination > li > a:focus,
+        .pagination > li span:focus,
+        .stage-details-1 .up-votes,
+        .utb-msg-new a,
+        .utb-msg-new a.active,
+        .landing-pg-fg-accent-1,
+        .assessment .questions .question-completed {
+          color: #798AFF;
+        }
+
+        .up-votes,
+        .archive-stage-list li a::after,
+        .landing-pg-bc-accent-1,
+        .btn-highlight:hover,
+        .stage-details-1 .up-votes {
+          border-color: #798AFF;
+        }
+
+        aside > section .stage-list > li a:hover .stage-name:after,
+        aside > section .stage-list > li a:focus .stage-name:after,
+        aside > section .stage-list > li.active a .stage-name:after,
+        .voted-down > .vote-actions > .vote-down {
+          border-top-color: #798AFF !important;
+        }
+
+        .voted-up > .vote-actions > .vote-up,
+        .idea-list-modes-sub ul li.active a {
+          border-bottom-color: #798AFF;
+        }
+    
+    
+    .landing-pg-bg-accent-2,
+    .stage-list li a {
+      background: #DDDEE5 !important;
+      color: #fff !important;
+    }
+
+    .stage-timeline-steps > li > svg {
+      fill: #DDDEE5 !important;
+    }
+
+    .stage-list > li > a > span {
+      color: #e3e3e3 !important;
+    }
+
+    a:hover,
+    a:focus,
+    .landing-pg-fg-accent-2 {
+      color: #DDDEE5;
+    }
+
+    .ribbon:before,
+    .ribbon:after,
+    .landing-pg-bc-accent-2 {
+      border-color: #DDDEE5;
+    }
+
+    .vote-up {
+      border-bottom-color: #DDDEE5;
+    }
+
+    .vote-down {
+      border-top-color: #DDDEE5 !important;
+    }
+
+    .ribbon:before {
+      border-left-color: transparent;
+    }
+
+    .ribbon:after {
+      border-right-color: transparent;
+    }
+
+    .new-idea-bar .btn-new-idea {
+      border: 1px solid #DDDEE5;
+    }
+    </style>
+</head>
+<body data-element-id="community-home-page" data-features="collapse-expand  offensive-emojis-remove  ie-browser-detect" data-msg-dismiss-alert="Click here to dismiss alert message" data-switch-on-text="ON" data-switch-off-text="OFF" data-msg-failed-to-load="Content failed to load, please refresh the page." class="homepage sec-508 custom-css-enabled custom-landing-body pace-running" data-offensive-emojis="🖕" data-browser-unsupported-msg="We noticed you are using Internet Explorer, which may cause problems. For a better experience, we recommend using the Microsoft Edge Browser, Chrome, Firefox or Safari. <a href='https://support.ideascale.com/en/articles/682941-internet-web-browsers-supported-by-ideascale' target='_blank'>Click for more info.</a>" data-alert-type="info"><div class="pace pace-active"><div class="pace-progress" data-progress-text="54%" data-progress="54" style="transform: translate3d(54.0042%, 0px, 0px);">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+<a href="#main-content" class="sr-only sr-only-focusable skip-link">Skip to main content</a>
+<script src="/js-libs/raven-js/raven.min.js?v=030464"></script>
+<script>
+      Raven.config("https://5daacd7816c5489eb9f7aa2211011e56@sentry.ideascale.net/1").install();
+  </script>
+<nav id="universal-top-bar" data-features="click-bubble-off">
+<div class="container-fluid utb-container">
+<a class="hidden-sm-max" id="utb-logo" href="/">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/IOHK_logo_topbar-a659a6.png" alt="Logo IOHK">
+</a>
+<ul class="nav pull-left">
+<li class="hidden-sm-max" id="topbar-affix-placeholder"></li>
+</ul>
+<ul class="nav pull-right" data-features="dropdown-for-ajax-link-update">
+<li>
+<a href="/a/" title="Community Homepage" class="no-dropdown">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-home"></use>
+</svg>
+<span class="sr-only">Community Homepage</span>
+</a>
+</li>
+<li id="utb-member-action-item" class="dropdown slidable-dropdown" data-fetch-content-url="/a/community/member/action/items/exist" data-fetched-content-holder-id="utb-member-action-item" data-fetched-content-response-handler="page-data-loaded" data-features="fetch-content-on-page-load">
+<a id="utb-member-action-item-achor" href="#" title="Alerts" class="dropdown-for-ajax-link-update utb-with-numeric-indicator" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" aria-haspopup="true" data-features="dropdown-for-ajax-link-update" data-action-url="/a/community/member/action/items" data-action-method="GET" data-update-container-id="utb-action-item-box" data-auto-scroll-off="">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#checkbox"></use>
+</svg>
+<span class="badge dot" aria-hidden="true">•</span> <span class="sr-only">has alerts</span>
+</a>
+<div id="utb-action-item-box" class="dropdown-menu utb-msg-container click-bubble-off no-focus-outline">
+
+<div class="utb-msg-heading">
+<div class="skeleton-line w-30"></div>
+</div>
+<ul class="utb-msg-list utb-responsive-height">
+<li>
+<div class="skeleton-line w-50"></div>
+</li>
+<li>
+<div class="skeleton-line w-70"></div>
+</li>
+</ul>
+
+</div>
+</li>
+<li class="dropdown slidable-dropdown">
+<a id="utb-notification-msg-indicator" href="#" class="dropdown-for-ajax-link-update utb-with-numeric-indicator" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" aria-haspopup="true" data-action-url="/a/in-app/notifications?notificationGroupId=0" data-action-interceptor="notification-dropdown-menu-open" data-update-container-id="utb-notification-box" data-auto-scroll-off="">
+<svg class="is-svg-icon topbar-icon baseline-notifications" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-notifications"></use>
+</svg>
+<strong title="0 unread notifications">
+<span class="sr-only">0 unread notifications</span>
+</strong>
+</a>
+<div id="utb-notification-box" class="dropdown-menu utb-msg-container click-bubble-off no-focus-outline" tabindex="-1">
+</div>
+</li>
+<li class="dropdown slidable-dropdown">
+<a id="utb-msg-indicator" href="#" class="dropdown-for-ajax-link-update utb-with-numeric-indicator" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" aria-haspopup="true" data-action-url="/a/community/messages/notifications" data-action-method="POST" data-action-interceptor="dropdown-menu-open" data-update-container-id="utb-msg-box" data-auto-scroll-off="">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-email"></use>
+</svg>
+<strong title="0 unread messages">
+<span class="sr-only">0 unread messages</span>
+</strong>
+</a>
+<div id="utb-msg-box" class="dropdown-menu utb-msg-container click-bubble-off no-focus-outline" tabindex="-1">
+</div>
+</li>
+<li id="utb-profile-dropdown" class="dropdown slidable-dropdown">
+<a class="utb-avatar-menu" href="#" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false" aria-haspopup="true">
+<div class="utb-avatar-col">
+<img id="topbar-avatar" class="utb-avatar avatar avatar-sm" src="https://app.ideascale.com/userimages/avatar/560/5601412/kevin-albert_sep-2015-0ec1ff.jpg" alt=""> </div>
+<div class="hidden-sm-max utb-username  utb-username-only  " title="Kevin Albert">
+Kevin Albert
+<span class="username">@kevin.albert.belgium</span>
+</div>
+<div class="utb-menu-arrow-down hidden-sm-max">
+<svg class="is-svg-icon topbar-icon arrow-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#arrow-down"></use>
+</svg>
+</div>
+</a>
+<div class="dropdown-menu click-bubble-off no-focus-outline" id="utb-user-menu" tabindex="-1">
+<a class="hidden-md-min profile-dropdown-logo" href="/">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/IOHK_logo_topbar-a659a6.png" alt="Logo IOHK">
+</a>
+<ul class="dropdown-menu-item-group">
+<li class="search-bar">
+<div id="utb-search-box">
+<form role="search" action="/a/ideas/search" method="POST">
+<input type="hidden" name="templateId" value="0">
+<input type="hidden" name="searchOperation" value="true">
+<button type="submit" class="search-btn"><span class="utb-btn-icon glyphicon glyphicon-search" aria-hidden="true"></span></button>
+<input id="utb-search-keywords" placeholder="Search..." class="form-control input-sm" type="text" name="query" accesskey="s" tabindex="0">
+</form>
+</div>
+</li>
+<li class="hidden-md-min">
+<a href="/a/leaderboard">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#leaderboard"></use>
+</svg>
+Top Collaborators
+</a>
+</li>
+<li>
+<a data-element-id="member-profile-link" href="/a/member/Kevin-Albert/3057939-48088">
+<svg class="is-svg-icon topbar-icon baseline-person-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-person"></use>
+</svg>
+Profile
+</a>
+</li>
+<li class="divider"></li>
+<li class="user-info">
+<a href="#">
+<div class="utb-avatar-col">
+<img id="topbar-avatar" class="utb-avatar avatar avatar-sm" src="https://app.ideascale.com/userimages/avatar/560/5601412/kevin-albert_sep-2015-0ec1ff.jpg" alt=""> </div>
+<div class="utb-username  utb-username-only  " title="Kevin Albert">
+Kevin Albert
+</div>
+</a>
+</li>
+<li>
+<a data-element-id="profile-link" href="https://app.ideascale.com/a/person/profile/">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#personal-settings"></use>
+</svg>
+Personal Settings
+</a>
+</li>
+<li>
+<a data-element-id="notification-link" href="https://app.ideascale.com/a/person/notifications/#member-3057939">
+<svg class="is-svg-icon topbar-icon baseline-drafts-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-drafts"></use>
+</svg>
+Notifications
+</a>
+</li>
+<li>
+<a href="https://support.ideascale.com/" target="Help">
+<svg class="is-svg-icon topbar-icon help-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-help"></use>
+</svg>
+Help
+</a>
+</li>
+<li>
+<a href="/a/new-features">
+<svg class="is-svg-icon baseline-cake-icon topbar-icon active" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-cake"></use>
+</svg>
+New Features
+</a>
+</li>
+<li class="divider"></li>
+<li>
+<a data-element-id="logout-link" href="/a/community/logout">
+<svg class="is-svg-icon topbar-icon" fill="#333" width="15" height="15" aria-hidden="true">
+<use xlink:href="/unified/is-icon/is-icon-defs.svg?v=030464#baseline-power_settings_new"></use>
+</svg>
+Log out
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="nav pull-right topbar-submission-button">
+<li id="utb-persistent" style="display: none;">
+<a id="new-idea-button" href=" /a/idea?templateId=0" class="utb-idea-button btn btn-danger btn-lg" rel="nofollow" data-return-url="/a/idea?templateId=0">
+<div class="new-idea-button-text">Submit proposal</div>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="alert alert-message alert-popup hidden" data-features="inline-help close-alert-message" role="alert" aria-live="assertive" aria-atomic="true"></div>
+<div class="modal fade cookie-consent-modal" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header sr-only">
+<h5 class="modal-title">Cookie Consent Dialog</h5>
+</div>
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true">×</span>
+</button>
+<div class="cookie-consent-collapse collapse show py-3" data-features="conditional-field click-disabled">
+<h4>Our use of cookies:</h4>
+<p>
+Like all websites, we use cookies to make our site work. We'd also like to set optional performance cookies to help us improve it. We won't set optional cookies unless you enable them. Using this tool will set a cookie on your device to remember your preferences.
+For more detailed information about the cookies we use, see our <a href="https://support.ideascale.com/en/articles/683011-ideascale-cookie-policy" target="_blank">Cookies page</a>.
+</p>
+<div class="form-group">
+<div class="ideascale-switch">
+<input type="checkbox" id="essential-cookies" checked="" data-click-disabled-msg="Essential cookies must be enabled.">
+<label for="essential-cookies">
+<span class="ideascale-switch-label-text">
+Essential Cookies
+</span>
+<i class="ideascale-switch-switch" data-checked-text="ON" data-unchecked-text="OFF"></i>
+</label>
+</div>
+<p>Essential Cookies enable core functionality such as security, network management, and accessibility. These cookies are necessary for the performance of the service and may not be removed.</p>
+</div>
+<div class="form-group">
+<div class="ideascale-switch">
+<input type="checkbox" id="non-essential-cookies" checked="">
+<label for="non-essential-cookies">
+<span class="ideascale-switch-label-text">
+Non-Essential
+</span>
+<i class="ideascale-switch-switch" data-checked-text="ON" data-unchecked-text="OFF"></i>
+</label>
+</div>
+<p class="" data-depending-field-id="non-essential-cookies" data-depending-field-checked="true" style="">Non-Essential Cookies are preference, marketing, and functional cookies that help the application perform to its full extent, advertising related to the IdeaScale marketing website, and ensure the application functions properly. Preferences cookies personalize your experience while accessing IdeaScale by remembering your preferences, such as preferred language and region of origin. Analytics cookies collect anonymized information about how you use the IdeaScale services, such as the IdeaScale pages you visit most frequently and the error messages you encounter. These cookies only analyze your movement within IdeaScale and are used to improve the functioning of IdeaScale services. Marketing cookies advertise IdeaScale services to you elsewhere on the Internet. These cookies enable the delivery of interest-based ads that may be relevant to you as a result of your activities on IdeaScale and provide IdeaScale with information (such as where you saw the ad) to help analyze the impact of its advertising campaigns. IdeaScale also includes links to social networks and third-party sites (for example, Facebook and LinkedIn), which may then use information about your visit to target advertising to you on their websites.</p>
+</div>
+<div class="mt-1">
+<button type="button" class="btn btn-primary btn-lg btn-block-xs-down json-link" data-action-url="/a/cookie-consent/confirm" data-param-provider="collect-cookie-consent-params" data-json-handler-success="cookie-consent-confirmed">Confirm</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div role="main" id="main-content" tabindex="-1" class="container main-container custom-landing-page">
+<header>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+</script>
+
+​
+
+
+<section class="cl-section ">
+<div id="myCarousel" data-interval="10000" class="carousel slide" data-ride="carousel">
+
+<div class="carousel-inner landing-pg-bg-accent-1" role="listbox">
+<div class="item active carousel-item-1">
+<div class="carousel-caption">
+<h1>Create, fund and deliver the future of Cardano.</h1>
+<p>Project Catalyst is an experiment in community innovation, providing a framework to turn ideas into impactful real world projects.</p>
+<p>We're putting the community at the heart of Cardano's future development. Are you ready for the Challenge?</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+</header>
+
+<section class="cl-section" id="how-it-works">
+<div class="row cl-row">
+<div class="col-md-8 col-md-offset-2">
+<h2 style="font-size: 28px;font-weight: normal;color: #798AFF;">Here's how it works</h2>
+</div>
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-4">
+<img src="/community-library/accounts/93/936143/Landing_Image_Innovator.png" style="display: block; margin: 30px auto 10px;">
+<h3>Innovate together</h3>
+<p class="text-center">Got an Idea? Create an impactful proposal and collaborate with the community to develop and refine it.</p>
+</div>
+​
+<div class="col-md-4">
+<img src="/community-library/accounts/93/936143/Landing_Image_Decider.png" style="display: block; margin: 40px auto 30px;">
+<h3>Vote for your favorite ideas</h3>
+<p class="text-center">Use a voting app to choose ideas with impact worth funding. Get rewarded in ada for taking part.</p>
+</div>
+​
+<div class="col-md-4">
+<img src="/community-library/accounts/93/936143/Landing_Image_Implementer.png" style="display: block; margin: 30px auto 10px;">
+<h3>Stay up to date</h3>
+<p class="text-center">Receive regular updates on all the funded ideas, so you can follow along and see how things are progressing.</p>
+</div>
+​
+<div class="col-md-12">
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<article>
+<a href="#active-campaigns">
+<img src="https://cardano.ideascale.com/community-library/accounts/93/936143/arrow_down.png" style="position: relative;left: 50%;transform: translateX(-50%);top: -35px;">
+</a>
+
+
+
+
+<section class="cl-section cl-campaigns" id="active-campaigns">
+<div class="row cl-row">
+<h2>Active Campaigns</h2>
+<p class="text-center">Browse ongoing initiatives</p>
+<hr class="dark">
+<a href="/a/campaign-home/26094">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Developer-Ecosystem-01b96b.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Developer ecosystem</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we create a positive developer experience that helps the developer focus on building successful apps?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 121
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26103">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/DApps--integrations-110db0.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: DApps &amp; Integrations</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>What applications will provide the most value for end users in 2021?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 121
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26104">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Decision-Making-a8afdc.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Distributed decision making</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 27
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26105">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Proposer-Outreach-f3f5ff.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Proposer outreach</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 38
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26106">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Catalyst-Onboarding-7baeff.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Catalyst value onboarding</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 33
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26107">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Metadata-a6497a.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Metadata challenge</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we utilize transaction metadata to solve real world problems?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 35
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26108">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Grow-Africa-Grow-Cardano-448104.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Grow Africa, Grow Cardano</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How do we seed and grow Cardano in Africa?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 48
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26109">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Scale-Up-Cardanos-DeFi-Ecosystem-2bcc07.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Scale-UP Cardano's DeFi Ecosystem</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 28
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26110">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Cardano-Emerging-Threat-Alarm-3e45d7.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Cardano Emerging Threat Alarm</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 11
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26111">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Multilingual-resources-3c7f27.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Multilingual resources</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 43
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26112">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/DeFi-and-Microlending-for-Africa-55161d.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: DeFi and Microlending for Africa</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 13
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26113">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/DLT-Entrepreneurship-Toolbox-1b6700.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: DLT Entrepreneurship Toolbox</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can early stage entrepreneurs develop their skills to execute &amp; communicate great ideas so voters/stakeholders value the project?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 25
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26114">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Partnerships-for-Global-Adoption-5e727f.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Partnerships for Global Adoption</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 17
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26115">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/NFT-Business-models-ce0349.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: NFT Business models</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 93
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26116">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Atala-PRISM-DID-Mass-Scale-Adoption-24e45d.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Atala PRISM DID Mass-Scale Adoption</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>What will drive mass-scale adoption of decentralized IDs on Cardano?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 48
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26117">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Disaster_-When-all-is-at-stake-52d5bd.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Disaster: When all is at stake</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How can we help SPOs tackle risks &amp; plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 12
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26118">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Scale-UP-Cardanos-Community-Hubs-e2be36.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Scale-UP Cardano's Community Hubs</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 33
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26119">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Improve-and-Grow-Auditability-7c6e48.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Improve and Grow Auditability</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>How to make the auditing process of funded proposals efficient, distributed and transparent?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 12
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/26120">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/community-library/accounts/93/936143/Public/Fund7-Challenge-Setting-8f532c.png') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">F6: Fund7 challenge setting</span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>What Challenges should the community prioritize to address in Fund7?
+</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 66
+</span>
+</article>
+</div>
+</a>
+<a href="/a/campaign-home/25622">
+<div class="col-md-4">
+<div style="background: url('https://cardano.ideascale.com/img/campaignbanners/10.jpg') !important; background-size: cover !important;" class="cl-campaign-logo-box landing-pg-bg-accent-1">
+<span class="cl-campaign-title">Project Catalyst Problem Sensing </span>
+</div>
+<article class="cl-campaign-box" style="height:160px">
+<p>Understanding problems with Project Catalyst is our key to making it successful. If we don't understand the nuanced experience we are attempting to transform...</p>
+<span class="cl-campaign-idea-number">
+<span class="brand-color is-icon is-icon-light-bulb" aria-hidden="true"></span>
+<span class="sr-only">Number of Ideas:</span> 433
+</span>
+</article>
+</div>
+</a>
+</div>
+</section>
+
+
+
+
+</article>
+
+<footer>
+<div class="cl-footer cl-white-fg">
+​
+<section class="cl-section  cl-fade-bg-footer">
+​
+<div class="row cl-row">
+​
+<div class="col-md-5 col-sm-12">
+<img src="/community-library/accounts/93/936143/catalyst_logo.png" width="180">
+</div>
+​
+<div class="col-md-7">
+<div class="row">
+<div class="col-md-4 col-sm-12">
+<h4>About</h4>
+<ul>
+<li><a href="https://cardano.ideascale.com/a/campaign-home/25604">The Project</a></li>
+<li>
+<a href="https://cardano.ideascale.com/a/idea?templateId=0">
+Submit an Idea
+</a>
+</li>
+<li><a href="https://cardano.ideascale.com/a/home">
+Browse Ideas</a></li>
+<li><a href="https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#heading=h.dmu4wfbk1ion">
+FAQs</a></li>
+
+</ul>
+</div>
+​
+<div class="col-md-4 col-sm-12">
+<h4>Contact</h4>
+<ul>
+<li><a href="https://t.me/cardanocatalyst">Join us on Telegram</a></li>
+<li><a href="https://support.ideascale.com/">
+Idea Scale Support</a></li>
+<li><a href="https://app.ideascale.com/a/person/messages/community/48088/compose?member-id=3108007&amp;member-id=3062424&amp;member-id=3059784">Contact Moderator</a></li>
+</ul>
+</div>
+​
+<div class="col-md-4 col-sm-12">
+​
+​
+​
+ ​
+
+
+</div>
+</div>
+</div>
+​
+<div class="col-md-12">
+<hr>
+<br>
+<style> p {text-align: center;}  </style>
+<p> Catalyst 2021 © All rights reserved </p>
+</div>
+​
+</div>
+​
+</section>
+</div>
+</footer>
+
+</div>
+<div class="wdt-emoji-popup" tabindex="-1" aria-hidden="true">
+<span class="sr-only" id="emoji-keyboard-hints">Use arrow key to choose the Emoji. Press Esc to Close Emoji Picker.</span>
+<a href="#" aria-hidden="true" class="wdt-emoji-popup-mobile-closer"> × </a>
+<div class="wdt-emoji-menu-content">
+<div id="wdt-emoji-menu-header">
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="People" title="People"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Nature" title="Nature"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Foods" title="Foods"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Activity" title="Activity"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Places" title="Places"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Objects" title="Objects"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Symbols" title="Symbols"></a>
+<a class="wdt-emoji-tab" tabindex="0" data-group-name="Flags" title="Flags"></a>
+</div>
+<div class="wdt-emoji-scroll-wrapper" role="application">
+<div id="wdt-emoji-menu-items">
+<input id="wdt-emoji-search" aria-describedby="emoji-keyboard-hints" type="text" placeholder="Search Emoji">
+<h3 id="wdt-emoji-search-result-title">Search Results</h3>
+<div class="wdt-emoji-sections"></div>
+<div id="wdt-emoji-no-result" aria-hidden="true">No emoji found</div>
+</div>
+</div>
+<div id="wdt-emoji-footer">
+<div id="wdt-emoji-preview">
+<span id="wdt-emoji-preview-img"></span>
+<div id="wdt-emoji-preview-text">
+<span id="wdt-emoji-preview-name"></span><br>
+<span id="wdt-emoji-preview-aliases"></span>
+</div>
+</div>
+<div id="wdt-emoji-preview-bundle">
+<span>IdeaScale Emoji</span>
+</div>
+</div>
+</div>
+</div>
+<script src="/javascript/jquery-1.12.3.min.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.ui.widget.js?v=030464"></script><script src="/ui-libs/bootstrap/3.4.1/js/bootstrap.min.js?v=030464"></script><script src="/ui-libs/bootstrap-switch/3.3.2/js/bootstrap-switch-patched.js?v=030464"></script><script src="/js-libs/fingerprintjs2/fingerprint2.min.js?v=030464"></script><script src="/ui-libs/select2/4.0.5/js/select2.full.min.js?v=030464"></script><script src="/javascript/jquery.NobleCount-is.js?v=030464"></script><script src="/js-libs/simple.store.js?v=030464"></script><script src="/javascript/ideascale-controller-v3.min.js?v=030464"></script><script src="/js-libs/scrollmagic/minified/ScrollMagic.min.js?v=030464"></script><script src="/js-libs/wdt-emoji/emoji.min.js?v=030464"></script><script src="/js-libs/wdt-emoji/wdt-emoji-bundle-is.js?v=030464"></script><script src="/js-libs/masonry/masonry.pkgd.min.js?v=030464"></script><script src="/ui-libs/droptabs/jquery.droptabs.js?v=030464"></script><script src="/ui-libs/bootstrap/twitter-bootstrap-hover-dropdown.js?v=030464"></script><script src="/javascript/jquery.pulse.js?v=030464"></script><script src="/js-libs/InfiniteScroller.js?v=030464"></script><script src="/js-libs/lazysizes/lazysizes.min.js?v=030464"></script><script src="/js-libs/sisyphus-patched.js?v=030464"></script><script src="/javascript/feature-tour.js?v=030464"></script><script src="/js-libs/jquery.easy-ticker.min.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/load-image.all.min.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.iframe-transport.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.fileupload.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.fileupload-process.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.fileupload-image.js?v=030464"></script><script src="/ui-libs/jquery-file-upload/js/jquery.fileupload-validate.js?v=030464"></script><script src="/ui-libs/ichord/js/jquery.caret.js?v=030464"></script><script src="/ui-libs/ichord/js/jquery.atwho.js?v=030464"></script><script src="/ui-libs/bootstrap/slider/bootstrap-slider.js?v=030464"></script><script src="/javascript/require-2.1.15-min.js?v=030464"></script><script src="/js-libs/mediaelement/mediaelement-and-player.min.js?v=030464"></script><script src="/js-libs/mediaelement/google-analytics.min.js?v=030464"></script><script src="/javascript/common-options.js?v=030464"></script><script src="/javascript/ideascale-v3.min.js?v=030464"></script>
+<script src="/javascript/svgxuse.min.js"></script>
+<script>
+  require.config({
+    paths: {
+      "datetimepicker": "/ui-libs/flatpickr/flatpickr",
+      "scribd": "//www.scribd.com/javascripts/scribd_api",
+      "moment": "/ui-libs/bootstrap-daterangepicker/2.0.9/moment.min",
+      "date-range-picker": "/ui-libs/bootstrap-daterangepicker/2.0.9/daterangepicker-patched",
+      "ally": "/ui-libs/ally.js/ally.min",
+      "medium-editor": "/ui-libs/markdown/5.23.3/js/medium-editor.min",
+      "turndown": "/ui-libs/markdown/turndown.browser.umd",
+      "showdown": "/ui-libs/markdown/showdown.min",
+      "sortable": "/js-libs/sortablejs/Sortable.min"
+    }
+  });
+</script>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-194712518-1', 'auto');
+ga('set', {
+  'dimension1': 'User',
+  'dimension2': '0'
+});
+ga('send', 'pageview');
+
+ga('create', 'UA-47322948-2', 'auto', 'trackerB');
+ga('trackerB.set', {
+  'dimension1': '96',
+  'dimension2': 'User (Paid)',
+  'dimension3': '0',
+  'dimension4': 'Private with public landing page',
+  'dimension5': 'Email'
+});
+ga('trackerB.send', 'pageview');
+
+</script>
+<script>
+      ga('trackerB.send', 'event', 'Login', 'pageview', 'Login : Login Completed');
+    </script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;6a9787ad0f9941a2&quot;,&quot;token&quot;:&quot;cf2da3ca09804534bdff2b676e803a28&quot;,&quot;version&quot;:&quot;2021.10.0&quot;,&quot;si&quot;:100}"></script>
+
+
+</body></html>

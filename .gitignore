@@ -1,0 +1,10 @@
+.cache
+.ipython
+.local
+.config
+.vscode
+.ipynb_checkpoints
+.venvs
+*.pyc
+Untitled.ipynb
+secret.py
